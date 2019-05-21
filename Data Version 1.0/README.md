@@ -20,7 +20,7 @@ Principal Investigator: Professor Kenneth Dean
 
 Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
 
-##Information about funding sources or sponsorship that supported the collection of the data:
+## Information about funding sources or sponsorship that supported the collection of the data:
 
 
 National University of Singapore Libraries
@@ -32,8 +32,8 @@ Singapore Federation of Chinese Clan Associations
 
 ## Content (of the zip file)
 
-- 人物数据 1.0.xlsx: biographical infomration of the personalities
-- 关系数据 1.0.xlsx: social network of interpersonal connections
+- 人物数据 1.0.xlsx: biographical infomration of the personalities (node list)
+- 关系数据 1.0.xlsx: Interpersonal relationships (link list)
 - README.md: this file
 
 
