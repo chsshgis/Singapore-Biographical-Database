@@ -18,7 +18,7 @@ Check for newest versions here [github](https://github.com/chsshgis/Singapore-Bi
 
 Principal Investigator: Professor Kenneth Dean
 
-Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
+Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
 
 ## Information about funding sources or sponsorship that supported the collection of the data:
 
