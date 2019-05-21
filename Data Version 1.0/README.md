@@ -18,7 +18,7 @@ Check for newest versions here [github](https://github.com/chsshgis/Singapore-Bi
 
 Principal Investigator: Professor Kenneth Dean
 
-Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
+Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
 
 ## Information about funding sources or sponsorship that supported the collection of the data:
 
@@ -30,7 +30,7 @@ National Library of Singapore
 Singapore Federation of Chinese Clan Associations
 
 
-## Content (of the zip file)
+## Contents
 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list)
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list)
