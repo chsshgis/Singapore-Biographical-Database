@@ -18,7 +18,7 @@ Check for newest versions here [github](https://github.com/chsshgis/Singapore-Bi
 
 Principal Investigator: Professor Kenneth Dean
 
-Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang and Ms Chen Yao, Ms Sun Yuanxin
+Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang,Ms Chen Yao and Ms Sun Yuanxin
 
 ## Information about funding sources or sponsorship that supported the collection of the data:
 
@@ -37,7 +37,7 @@ Singapore Federation of Chinese Clan Associations
 - README.md: this file
 
 
-## Description
+## Project Information
 
 The Singapore Biographical Database is a collaborative project by the National University of Singapore, the National Library Board of Singapore and the Singapore Federation of Chinese Clan Associations. It presents an interface that allows users to search individual prominent Singapore Chinese personalities and displays a social network of interpersonal connections and affiliations between them. Apart from biographical information, the database offers additional links to selected digital archives from the National Library, Singapore; the National Archives of Singapore and the photo archives from the Department of Chinese Studies, the National University of Singapore.
 
