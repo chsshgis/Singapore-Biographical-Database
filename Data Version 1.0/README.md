@@ -11,7 +11,7 @@ Check for newest versions here [github](https://github.com/chsshgis/Singapore-Bi
 
 ## Date
 
-2019-05-15
+2019-02-01
 
 ## Authors
 
