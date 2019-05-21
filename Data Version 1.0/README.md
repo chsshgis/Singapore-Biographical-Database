@@ -5,13 +5,13 @@ The SBDB [website](http://shgis.nus.edu.sg/sbdb/) (2019) visualizes the data in 
 
 ## Version
 
-v2019-05
+v2019-02
 
 Check for newest versions here [github](https://github.com/chsshgis/Singapore-Biographical-Database.git).
 
 ## Date
 
-2019-02-01
+01-February-2019
 
 ## Authors
 
