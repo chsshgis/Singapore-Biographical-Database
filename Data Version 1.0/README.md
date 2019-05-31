@@ -28,16 +28,6 @@ Team: Dr Hue Guanthye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao a
 
 团队成员：许源泰博士 严滢伟博士 薛逸然 鲁爽 陈瑶 孙元欣
 
-## Information about funding sources or sponsorship that supported the collection of the data:
-
-## 项目资助和合作机构信息
-
-National University of Singapore Libraries 新加坡国立大学图书馆
-
-National Library of Singapore 新加坡国家图书馆
-
-Singapore Federation of Chinese Clan Associations 新加坡宗乡会馆联合总会
-
 
 ## Contents 目录
 
@@ -53,7 +43,7 @@ The Singapore Biographical Database is a collaborative project by the National U
 
 The first phase of this project focuses on 200 prominent Singapore Chinese personalities to coincide with the 200th anniversary of the founding of modern Singapore in 2019. We hope to eventually develop a big database of eight generations of Singapore personalities from 1819 to 2019.
 
-新加坡传记数据库是新加坡国立大学，新加坡国家图书馆和新加坡宗乡会馆联合总会的合作项目。 它提供平台，用户可以利用搜索历史上的新加坡华人先贤，了解他们的人际关系和社交网络。 除了传记信息外，该数据库还引用了相关人物在新加坡国家图书馆数字档案里的链接，新加坡国家档案馆和新加坡国立大学中文系的照片档案。
+新加坡传记数据库是新加坡国立大学图书馆和中文系，新加坡国家图书馆和新加坡宗乡会馆联合总会的合作项目。 它提供平台，用户可以利用搜索历史上的新加坡华人先贤，了解他们的人际关系和社交网络。 除了传记信息外，该数据库还引用了相关人物在新加坡国家图书馆数字档案里的链接，新加坡国家档案馆和新加坡国立大学中文系的照片档案。
 
 
 为配合2019年新加坡开埠200周年纪念，该项目的第一阶段聚焦于200名着名的新加坡华族先贤。我们的最终目标是建立一个从1819年到2019年的八代新加坡人的大型数据库。
