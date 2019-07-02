@@ -34,23 +34,18 @@ Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list) 点：人物信息
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list) 线：人物关系信息
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 人物关系分类 Relationship Classification
-1. 轻度社交
-2. 普通伙伴
-3. 密切伙伴（合作	Cooperative
-结拜兄弟	Sworn brothers
-师生	Teacher and student
-朋友	Friends）
-4. 普通亲戚
-5. 三代以内直系血亲及夫妻（父子	Father and son
-兄弟	Brothers
-父女	Father and daughter
-祖孙	Grandfather and grandchild
-兄妹	Siblings
-夫妻	Couple
-姐弟	Elder sister and brother
-姐妹	Sisters
-母子	Mother and son
-母女	Mother and daughter）
+| 三代以内直系血亲及夫妻 | 密切伙伴 | 普通亲戚 | 普通伙伴 | 轻度社交 |
+|------------------------|----------|----------|----------|----------|
+| 父子                   | 合作     | 亲戚     | 雇佣     | 社交     |
+| 兄弟                   | 结拜兄弟 | 堂兄弟   | 同侪     | 受封     |
+| 父女                   | 师生     | 表兄弟   | 竞争     | 服务     |
+| 祖孙                   | 朋友     | 义父子   | 合作     | 社交     |
+| 兄妹                   |          |          | 同学     | 同乡     |
+| 夫妻                   |          |          | 敌对     |          |
+| 姐弟                   |          |          |          |          |
+| 姐妹                   |          |          |          |          |
+| 母子                   |          |          |          |          |
+| 母女                   |          |          |          |          |
 
 - README.md: this file 本文档
 
