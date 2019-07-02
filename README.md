@@ -33,6 +33,18 @@ Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao 
 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list) 点：人物信息
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list) 线：人物关系信息
+  - | 三代以内直系血亲及夫妻 | Next of Kin                | 密切伙伴 | Close Partner       | 普通亲戚 | Relative                 | 普通伙伴 | General Partner | 轻度社交 | Acquaintance       |
+    |-------------|----------------------------|------|---------------------|------|--------------------------|------|-----------------|------|--------------------|
+    | 父子          | Father and son             | 合作   | Cooperative         | 亲戚   | Relatives                | 雇佣   | Employment      | 社交   | Social contact     |
+    | 兄弟          | Brothers                   | 结拜兄弟 | Sworn brothers      | 堂兄弟  | Male Cousins (paternal)  | 同侪   | Peer            | 受封   | Honored by         |
+    | 父女          | Father and daughter        | 师生   | Teacher and student | 表兄弟  | Male Cousins (maternal)  | 竞争   | Competitive     | 服务   | Offering a service |
+    | 祖孙          | Grandfather and grandchild | 朋友   | Friends             | 义父子  | Foster father and son    | 合作   | Cooperative     | 社交   | Honored by         |
+    | 兄妹          | Siblings                   |      |                     |      |                          | 同学   | Classmate       | 同乡   | Fellow clansmen    |
+    | 夫妻          | Couple                     |      |                     |      |                          | 敌对   | Hostile         |      |                    |
+    | 姐弟          | Elder sister and brother   |      |                     |      |                          |      |                 |      |                    |
+    | 姐妹          | Sisters                    |      |                     |      |                          |      |                 |      |                    |
+    | 母子          | Mother and son             |      |                     |      |                          |      |                 |      |                    |
+    | 母女          | Mother and daughter        |
 - README.md: this file 本文档
 
 
