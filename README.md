@@ -34,15 +34,11 @@ Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list) 点：人物信息
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list) 线：人物关系信息
 
-&nbsp;&nbsp;轻度社交
-
-&nbsp;&nbsp;普通伙伴
-
-&nbsp;&nbsp;密切伙伴
-
-&nbsp;&nbsp;普通亲戚
-
-&nbsp;&nbsp;三代以内直系血亲及夫妻
+&nbsp;&nbsp;&nbsp;&nbsp;轻度社交
+&nbsp;&nbsp;&nbsp;&nbsp;普通伙伴
+&nbsp;&nbsp;&nbsp;&nbsp;密切伙伴
+&nbsp;&nbsp;&nbsp;&nbsp;普通亲戚
+&nbsp;&nbsp;&nbsp;&nbsp;三代以内直系血亲及夫妻
 
 - README.md: this file 本文档
 
