@@ -34,7 +34,7 @@ Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list) 点：人物信息
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list) 线：人物关系信息
 
-  - | 三代以内直系血亲及夫妻 | Next of Kin                | 密切伙伴 | Close Partner       | 普通亲戚 | Relative                 | 普通伙伴 | General Partner | 轻度社交 | Acquaintance       |
+   | 三代以内直系血亲及夫妻 | Next of Kin                | 密切伙伴 | Close Partner       | 普通亲戚 | Relative                 | 普通伙伴 | General Partner | 轻度社交 | Acquaintance       |
     |-------------|----------------------------|------|---------------------|------|--------------------------|------|-----------------|------|--------------------|
     | 父子          | Father and son             | 合作   | Cooperative         | 亲戚   | Relatives                | 雇佣   | Employment      | 社交   | Social contact     |
     | 兄弟          | Brothers                   | 结拜兄弟 | Sworn brothers      | 堂兄弟  | Male Cousins (paternal)  | 同侪   | Peer            | 受封   | Honored by         |
