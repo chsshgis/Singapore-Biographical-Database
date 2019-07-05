@@ -24,9 +24,9 @@ Principal Investigator: Professor Kenneth Dean
 
 项目负责人：丁荷生教授
 
-Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao and Ms Sun Yuanxin
+Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao Ms Lin Ruo and Ms Sun Yuanxin
 
-团队成员：许源泰博士 严滢伟博士 薛逸然 鲁爽 陈瑶 孙元欣
+团队成员：许源泰博士、严滢伟博士、薛逸然女士、鲁爽女士、陈瑶女士、林若女士和孙元欣女士
 
 
 ## Contents 目录
