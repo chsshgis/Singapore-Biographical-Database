@@ -34,18 +34,18 @@ Team: Dr Hue Guan Thye, Dr Yan Yingwei, Ms Xue Yiran, Ms Lu Shuang, Ms Chen Yao 
 - 人物数据 1.0.xlsx: biographical infomration of the personalities (node list) 点：人物信息
 - 关系数据 1.0.xlsx: Interpersonal relationships (link list) 线：人物关系信息
 
-   | 三代以内直系血亲及夫妻 | Next of Kin                | 密切伙伴 | Close Partner       | 普通亲戚 | Relative                 | 普通伙伴 | General Partner | 轻度社交 | Acquaintance       |
-    |-------------|----------------------------|------|---------------------|------|--------------------------|------|-----------------|------|--------------------|
-    | 父子          | Father and son             | 合作   | Cooperative         | 亲戚   | Relatives                | 雇佣   | Employment      | 社交   | Social contact     |
-    | 兄弟          | Brothers                   | 结拜兄弟 | Sworn brothers      | 堂兄弟  | Male Cousins (paternal)  | 同侪   | Peer            | 受封   | Honored by         |
-    | 父女          | Father and daughter        | 师生   | Teacher and student | 表兄弟  | Male Cousins (maternal)  | 竞争   | Competitive     | 服务   | Offering a service |
-    | 祖孙          | Grandfather and grandchild | 朋友   | Friends             | 义父子  | Foster father and son    | 合作   | Cooperative     | 社交   | Honored by         |
-    | 兄妹          | Siblings                   |      |                     |      |                          | 同学   | Classmate       | 同乡   | Fellow clansmen    |
-    | 夫妻          | Couple                     |      |                     |      |                          | 敌对   | Hostile         |      |                    |
-    | 姐弟          | Elder sister and brother   |      |                     |      |                          |      |                 |      |                    |
-    | 姐妹          | Sisters                    |      |                     |      |                          |      |                 |      |                    |
-    | 母子          | Mother and son             |      |                     |      |                          |      |                 |      |                    |
-    | 母女          | Mother and daughter        |
+| 三代以内直系血亲及夫妻<br>Next of Kin       | 密切伙伴<br>Close Partner     | 普通亲戚<br>Relative                | 普通伙伴<br>General Partner | 轻度社交<br>Acquaintance     |
+|----------------------------------|---------------------------|---------------------------------|-------------------------|--------------------------|
+| 父子<br>Father and son             | 合作<br>Cooperative         | 亲戚<br>Relatives                 | 雇佣<br>Employment        | 社交<br>Social contact     |
+| 兄弟<br>Brothers                   | 结拜兄弟<br>Sworn brothers    | 堂兄弟<br>Male Cousins (paternal)  | 同侪<br>Peer              | 受封<br>Honored by         |
+| 父女<br>Father and daughter        | 师生<br>Teacher and student | 表兄弟<br>Male Cousins (maternal)  | 竞争<br>Competitive       | 服务<br>Offering a service |
+| 祖孙<br>Grandfather and grandchild | 朋友<br>Friends             | 义父子<br>Foster father and son    | 合作<br>Cooperative       | 社交<br>Honored by         |
+| 兄妹<br>Siblings                   |                           |                                 | 同学<br>Classmate         | 同乡<br>Fellow clansmen    |
+| 夫妻<br>Couple                     |                           |                                 | 敌对<br>Hostile           |                          |
+| 姐弟<br>Elder sister and brother   |                           |                                 |                         |                          |
+| 姐妹<br>Sisters                    |                           |                                 |                         |                          |
+| 母子<br>Mother and son             |                           |                                 |                         |                          |
+| 母女<br>Mother and daughter        |
 - README.md: this file 本文档
 
 
