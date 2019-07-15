@@ -63,7 +63,7 @@ The first phase of this project focuses on 200 prominent Singapore Chinese perso
 
 
 ## Suggested Citation 引用建议
-Dean, K, Singapore Biographical Database, Singapore Biographical Database Project, Version v2019-02-01, Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), < https://sbdb.nus.edu.sg/>. 
+Dean, K, Singapore Biographical Database, Singapore Biographical Database Project, Version v2019-02-01, Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), https://sbdb.nus.edu.sg/. 
 
 ## License 版权许可
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
