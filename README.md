@@ -62,5 +62,8 @@ The first phase of this project focuses on 200 prominent Singapore Chinese perso
 为配合2019年新加坡开埠200周年纪念，该项目的第一阶段聚焦于200位著名的新加坡华族先贤。我们的最终目标是建立一个从1819年到2019年的八代新加坡人的大型数据库。
 
 
+## Suggested Citation 引用建议
+Dean, K, Singapore Biographical Database, Singapore Biographical Database Project, Version v2019-02-01, Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), < https://sbdb.nus.edu.sg/>. 
+
 ## License 版权许可
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
